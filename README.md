@@ -61,7 +61,7 @@ To use the configurations, copy the subscription link for your desired protocol 
 | :---: | :---: | :---: | :---: |
 | **VLESS** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/vless) | **VMESS** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/vmess) |
 | **Trojan** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/trojan) | **Shadowsocks** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/ss) |
-| **Hysteria** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/hysteria) | **hy2** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/hy2) |
+| **Hysteria** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/hysteria) | **Wireguard** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/refs/heads/main/sub/wireguard) |
 | **TUIC** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/tuic) | **AnyTLS** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/anytls) |
 | **MIX (All)** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/mix) | | |
 
@@ -71,7 +71,7 @@ To use the configurations, copy the subscription link for your desired protocol 
 | :---: | :---: | :---: | :---: |
 | **VLESS** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/vlessbase64) | **VMESS** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/vmessbase64) |
 | **Trojan** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/trojanbase64) | **Shadowsocks** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/ssbase64) |
-| **Hysteria** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/hysteriabase64) | **hy2** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/hy2base64) |
+| **Hysteria** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/refs/heads/main/sub/hysteriabase64) | **Wireguard** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/refs/heads/main/sub/wireguardbase64) |
 | **TUIC** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/tuicbase64) | **AnyTLS** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/anytlsbase64) |
 | **MIX (All)** | [**🔗 Click Here**](https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/mixbase64) | | |
 
