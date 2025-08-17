@@ -5,14 +5,14 @@ date_default_timezone_set('Asia/Tehran');
 define('MAX_MIX_CONFIGS', 500);
 
 $protocols = [
-    'vless'     => '/vless:\/\/\S+/',
-    'vmess'     => '/vmess:\/\/\S+/',
-    'ss'        => '/ss:\/\/\S+/',
-    'trojan'    => '/trojan:\/\/\S+/',
-    'hysteria'  => '/hy2:\/\/\S+/',
-    'tuic'      => '/tuic:\/\/\S+/',
-    'anytls'    => '/anytls:\/\/\S+/',
-    'wireguard' => '/wireguard:\/\/\S+/',
+    'vless'     => '/vless:\/\/[^<>\'\"\s]+/',
+    'vmess'     => '/vmess:\/\/[^<>\'\"\s]+/',
+    'ss'        => '/ss:\/\/[^<>\'\"\s]+/',
+    'trojan'    => '/trojan:\/\/[^<>\'\"\s]+/',
+    'hysteria'  => '/hy2:\/\/[^<>\'\"\s]+/',
+    'tuic'      => '/tuic:\/\/[^<>\'\"\s]+/',
+    'anytls'    => '/anytls:\/\/[^<>\'\"\s]+/',
+    'wireguard' => '/wireguard:\/\/[^<>\'\"\s]+/',
 ];
 
 function fetchContent($url) {
@@ -39,8 +39,10 @@ foreach ($telegramChannelURLs as $channelURL) {
     try {
         $content = fetchContent($channelURL);
         
+        $decodedContent = html_entity_decode($content);
+        
         foreach ($protocols as $name => $pattern) {
-            if (preg_match_all($pattern, $content, $matches)) {
+            if (preg_match_all($pattern, $decodedContent, $matches)) {
                 $allConfigs[$name] = array_merge($allConfigs[$name], $matches[0]);
             }
         }
@@ -51,7 +53,7 @@ foreach ($telegramChannelURLs as $channelURL) {
 }
 
 $fileContents = [];
-$allConfigsFlat = [];
+$allConfigsFlat = []; 
 
 foreach ($protocols as $name => $pattern) {
     $uniqueConfigs = array_unique($allConfigs[$name]);
