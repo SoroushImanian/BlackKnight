@@ -75,7 +75,7 @@ foreach ($fileContents as $key => $content) {
     $finalContent = empty($content) ? '// Nothing yet' : preg_replace("/\n\s*\n/", "\n", $content);
 
     file_put_contents("sub/{$key}", $finalContent);
-    file_put_contents("sub/{$key}base64", base_encode($finalContent));
+    file_put_contents("sub/{$key}base64", base64_encode($finalContent));
 }
 
 echo "Config collection finished successfully. Total unique configs in mix: " . count($mixConfigs) . PHP_EOL;
