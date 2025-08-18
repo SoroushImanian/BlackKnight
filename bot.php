@@ -4,17 +4,6 @@ date_default_timezone_set('Asia/Tehran');
 
 define('MAX_MIX_CONFIGS', 500);
 
-$protocols = [
-    'vless'     => '/vless:\/\/[^<>\'"]+/',
-    'vmess'     => '/vmess:\/\/[^<>\'"]+/',
-    'ss'        => '/ss:\/\/[^<>\'"]+/',
-    'trojan'    => '/trojan:\/\/[^<>\'"]+/',
-    'hysteria'  => '/hy2:\/\/[^<>\'"]+/',
-    'tuic'      => '/tuic:\/\/[^<>\'"]+/',
-    'anytls'    => '/anytls:\/\/[^<>\'"]+/',
-    'wireguard' => '/wireguard:\/\/[^<>\'"]+/',
-];
-
 function fetchContent($url) {
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, $url);
@@ -26,52 +15,76 @@ function fetchContent($url) {
         'Cookie: messagesDesktopMode=0;'
     ]);
     $response = curl_exec($ch);
-    if (curl_errno($ch)) {
-        throw new Exception('Curl error: ' . curl_error($ch));
+    if ($response === false) {
+        echo 'Error fetching content from ' . $url . ': ' . curl_error($ch) . PHP_EOL;
+        return false;
     }
     curl_close($ch);
     return $response;
 }
 
-$allConfigs = array_fill_keys(array_keys($protocols), []);
+function extractConfigurations($content) {
+    $content = html_entity_decode($content);
+
+    $patterns = [
+        'vless'     => '/vless:\/\/[^<>\'"]+/',
+        'vmess'     => '/vmess:\/\/[^<>\'"]+/',
+        'ss'        => '/ss:\/\/[^<>\'"]+/',
+        'trojan'    => '/trojan:\/\/[^<>\'"]+/',
+        'hysteria'  => '/hy2:\/\/[^<>\'"]+/',
+        'tuic'      => '/tuic:\/\/[^<>\'"]+/',
+        'anytls'    => '/anytls:\/\/[^<>\'"]+/',
+        'wireguard' => '/wireguard:\/\/[^<>\'"]+/',
+    ];
+    
+    $results = [];
+    foreach ($patterns as $name => $pattern) {
+        preg_match_all($pattern, $content, $matches);
+        $results[$name] = $matches[0] ? implode(PHP_EOL, $matches[0]) : '';
+    }
+    return $results;
+}
+
+$allConfigs = [
+    'vless' => [], 'vmess' => [], 'ss' => [], 'trojan' => [], 
+    'hysteria' => [], 'tuic' => [], 'anytls' => [], 'wireguard' => []
+];
 
 foreach ($telegramChannelURLs as $channelURL) {
-    try {
-        $rawContent = fetchContent($channelURL);
-        $decodedContent = html_entity_decode($rawContent);
+    $channelContent = fetchContent($channelURL);
 
-        foreach ($protocols as $name => $pattern) {
-            if (preg_match_all($pattern, $decodedContent, $matches)) {
-                $allConfigs[$name] = array_merge($allConfigs[$name], $matches[0]);
+    if ($channelContent !== false) {
+        $extracted = extractConfigurations($channelContent);
+        foreach ($extracted as $name => $configs_string) {
+            if (!empty($configs_string)) {
+                $allConfigs[$name][] = $configs_string;
             }
         }
-    } catch (Exception $e) {
-        echo "Could not fetch channel {$channelURL}: " . $e->getMessage() . PHP_EOL;
-        continue;
     }
 }
 
 $fileContents = [];
-$allConfigsFlat = []; 
+$allConfigsFlat = [];
 
-foreach ($protocols as $name => $pattern) {
-    $uniqueConfigs = array_unique($allConfigs[$name]);
-    $contentString = implode(PHP_EOL, $uniqueConfigs);
+foreach ($allConfigs as $name => $configs_arrays) {
+    $contentString = implode(PHP_EOL, $configs_arrays);
     
-    $fileContents[$name] = $contentString;
+    $cleanedContent = preg_replace("/\n\s*\n/", "\n", $contentString);
     
-    if (!empty($uniqueConfigs)) {
-        $allConfigsFlat = array_merge($allConfigsFlat, $uniqueConfigs);
+    $fileContents[$name] = $cleanedContent;
+    
+    if (!empty($cleanedContent)) {
+        $allConfigsFlat = array_merge($allConfigsFlat, explode(PHP_EOL, $cleanedContent));
     }
 }
 
-shuffle($allConfigsFlat);
-$mixConfigs = array_slice($allConfigsFlat, 0, MAX_MIX_CONFIGS);
+$uniqueConfigsFlat = array_unique($allConfigsFlat);
+shuffle($uniqueConfigsFlat);
+$mixConfigs = array_slice($uniqueConfigsFlat, 0, MAX_MIX_CONFIGS);
 $fileContents['mix'] = implode(PHP_EOL, $mixConfigs);
 
 foreach ($fileContents as $key => $content) {
-    $cleanedContent = preg_replace("/\n\s*\n/", "\n", $content);
-    $finalContent = empty(trim($cleanedContent)) ? '// Nothing yet' : $cleanedContent;
+    $finalContent = empty(trim($content)) ? '// Nothing yet' : $content;
 
     file_put_contents("sub/{$key}", $finalContent);
     file_put_contents("sub/{$key}base64", base64_encode($finalContent));
