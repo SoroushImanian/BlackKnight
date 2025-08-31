@@ -18,6 +18,7 @@ trojan://telegram-id-privatevpns@15.236.2.42:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@13.39.0.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@3.121.143.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@3.65.233.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
+trojan://xxoo@us.blazeppn.info:443?security=tls&headerType=none&type=tcp&sni=us.blazeppn.info#I%20809%20%28%40Outline_Vpn%29%20free
 trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI%3Fed%3D1520%23%40v2ray_alpha&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#%40V2rayNG3
 trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520%23FreeV2Alpha&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#%40V2rayNG3
 trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#%40V2rayNG3
@@ -43,3 +44,4 @@ trojan://juzi@3.76.154.119:443?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#
 trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
 trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#@awlix_ir
 trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?security=tls&sni=broker.superpokemon.com&allowInsecure=1&type=tcp#@awlix_ir
+trojan://telegram-id-directvpn@3.65.233.81:22223?security=tls&alpn=http%2F1.1&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
