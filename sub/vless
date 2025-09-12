@@ -178,7 +178,7 @@ vless://964582fa-d157-491e-9ce7-bb3e2df57625@85.209.155.9:8880?mode=gun&security
 vless://c95740bb-b3be-44f9-9fa4-260c3fbec6de@37.27.15.167:2089?security=reality&encryption=none&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e3c5c005cae07eb8#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.254:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
 vless://bdb68d99-443c-4831-aea8-549a635644ea@93.115.240.74:15500?type=ws&security=none#OPT
-vless://9d717e24-b4b5-4fa5-8b3b-22ed9b30bf65@95.217.27.14:13560?type=ws&security=none#S570-197789
+vless://c5bcf3fb-eb77-4472-8750-55b56efef262@92.223.2.119:59594?type=ws&security=none#S570-197790
 vless://2e700ecb-c913-4711-8078-2d50344a1559@93.115.240.74:15600?type=ws&security=none#S557-199900
 vless://73938f0e-d1af-43ab-9b6d-063bca1dd694@93.115.240.74:15800?type=ws&security=none#S557-199950
 vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?security=none&encryption=none&headerType=none&type=tcp#S581-200105
