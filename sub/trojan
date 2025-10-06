@@ -39,11 +39,6 @@ trojan://eG92F3gh09@51.15.86.181:1935?security=tls&headerType=none&type=tcp&sni=
 trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#@V2rayNG3
 trojan://redfree8@104.17.148.22:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@V2rayNG3
 trojan://redfree8@104.17.148.22:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@V2rayNG3
-trojan://253bc477d4e43c209f2d427272968280@203.198.123.174:443?sni=www.nintendogames.net&allowInsecure=1&type=tcp&path=&host=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-203.198.123.174-0533
-trojan://BAu7ZSyD3IZppnCOxCzaFXje3SECzZgX83e3x7yZA8SDCacyagKFlEO6O0AlTSwDDe4SF@
-trojan://bpb-trojan@154.194.12.141:443?sni=bpb.my79801.com&allowInsecure=1&type=tcp&path=&host=bpb.my79801.com#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@5.182.84.50:2096?sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=tcp&path=&host=epgb.aimercc.dpdns.org#%F0%9F%8F%81RELAY-5.182.84.50-0665
-trojan://trojan@172.67.75.172:8443?sni=fofang.pages.dev&allowInsecure=1&type=tcp&path=&host=fofang.pages.dev#%F0%9F%8F%81RELAY-172.67.75.172-0816
 trojan://trojan@172.67.130.66:443/?type=tcp&security=tls&sni=test-a23.pages.dev&allowInsecure=1#%F0%9F%8F%81RELAY-172.67.130.66-0276
 trojan://bpb-trojan@162.159.153.161:443/?type=tcp&security=tls&sni=cf.090227.xyz&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@5.182.84.50:2096/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org&allowInsecure=1#%F0%9F%8F%81RELAY-5.182.84.50-0665
