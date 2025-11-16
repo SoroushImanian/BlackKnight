@@ -32,6 +32,9 @@ trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#@V2rayNG3
 trojan://rpq9Od8Bj7@91.107.179.207:1223?security=reality&sni=refersion.com&fp=chrome&pbk=VtJ9rMo1lo9v2jHH1d8A83uErJDBE4T6Cyd1sLfPxzo&sid=4b2cd56a&spx=/&type=tcp#https://t.me/ShadowsocksM13
 trojan://-4146XJHYAzJ4K8Ov6_LBQ@147.45.180.5:11000?security=tls&sni=a913a5b91ce37ed2.noproblemvpn.ru&type=ws&path=/tw#https://t.me/ShadowsocksM30
 trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM41
+trojan://3BLPOJr3OY@91.108.250.230:50191?security=reality&sni=cloudflare.com&fp=chrome&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&sid=2e&type=grpc#https://t.me/ShadowsocksM10
+trojan://LxJCPOP40a@206.206.77.237:51469?security=reality&sni=cloudflare.com&fp=chrome&pbk=nlxKGGnvTUULdJlG1vfRbiG9IFrbFYC9VMnMWNH_A3s&sid=793dfc59cf7edf&type=grpc#https://t.me/ShadowsocksM18
+trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?security=tls&sni=www.nintendogames.net&type=tcp#https://t.me/ShadowsocksM22
 trojan://3BLPOJr3OY@pl.scpnb.top:50191?mode=gun&security=reality&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&fp=chrome&spx=%2F&type=grpc&sni=cloudflare.com&sid=2e#Poland%20Cloudflare
 trojan://tunnel-astrovpn_official028@45.112.192.29:8441?security=tls&alpn=http%2F1.1&host=45.112.192.29&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir#The%20Netherlands%20NK%20Telecom
 trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=chrome&type=httpupgrade&sni=joon.arshiacomplus.dpdns.org#United%20Kingdom%20QuickHost%20UK
@@ -61,8 +64,6 @@ trojan://WOeXShhJpL@104.18.71.140:443?security=tls&sni=09jzus.zdzdzd.xyz&type=ws
 trojan://telegram-id-privatevpns@63.176.182.62:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://3BLPOJr3OY@91.108.250.230:50191?security=reality&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&fp=chrome&type=grpc&sni=cloudflare.com&sid=2e#%F0%9F%92%B827%40ConfigV2RayNG
 trojan://LxJCPOP40a@206.206.77.237:51469?security=reality&pbk=nlxKGGnvTUULdJlG1vfRbiG9IFrbFYC9VMnMWNH_A3s&fp=chrome&type=grpc&sni=cloudflare.com&sid=793dfc59cf7edf#%F0%9F%90%9273%40ConfigV2RayNG
-trojan://-4146XJHYAzJ4K8Ov6_LBQ@92.51.45.205:11000?path=%2Ftw&security=tls&type=ws&sni=3c621ca307728065.noproblemvpn.ru#%F0%9F%92%8E67%40ConfigV2RayNG
-trojan://-4146XJHYAzJ4K8Ov6_LBQ@38.180.45.61:11000?path=%2Ftw&security=tls&type=ws&sni=noproblemvpn.ru#%F0%9F%92%8E25%40ConfigV2RayNG
 trojan://-4146XJHYAzJ4K8Ov6_LBQ@92.51.45.205:11000?path=%2Ftw&security=tls&type=ws&sni=3c621ca307728065.noproblemvpn.ru#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 trojan://-4146XJHYAzJ4K8Ov6_LBQ@194.35.116.62:11000?path=%2Ftw&security=tls&type=ws&sni=f4e23c6c168f0e91.noproblemvpn.ru#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 trojan://-4146XJHYAzJ4K8Ov6_LBQ@lv.podpiska.vip:11000?path=%2Ftw&security=tls&type=ws&sni=noproblemvpn.ru#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
