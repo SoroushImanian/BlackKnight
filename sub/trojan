@@ -35,6 +35,14 @@ trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerT
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#@V2rayNG3
 trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#@V2rayNG3
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@37.114.62.218:443?security=tls&sni=45.32.28.232&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM1
+trojan://bpb-trojan@162.159.153.229:443?security=tls&sni=cf.090227.xyz&type=tcp#https://t.me/ShadowsocksM1
+trojan://bpb-trojan@162.159.152.59:443?security=tls&sni=cf.090227.xyz&type=tcp#https://t.me/ShadowsocksM2
+trojan://bpb-trojan@162.159.153.172:443?security=tls&sni=cf.090227.xyz&type=tcp#https://t.me/ShadowsocksM3
+trojan://bpb-trojan@108.165.216.155:443?security=tls&sni=bpb.my79801.com&type=tcp#https://t.me/ShadowsocksM4
+trojan://bpb-trojan@45.80.111.9:443?security=tls&sni=bpb.my79801.com&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM5
+trojan://rV3TjWB8R1EiK1xhmnypsgeo@172.236.2.42:19872?security=tls&sni=ads.x5.ru&allowInsecure=1&fp=chrome&type=tcp#https://t.me/ShadowsocksM21
+trojan://79314e99f0a473fe86efc7827942ad00@153.121.38.213:1331?security=tls&sni=www.nintendogames.net&type=tcp#https://t.me/ShadowsocksM28
+trojan://7a73f1dc97a70905870c0c0484b12145@133.242.55.38:443?security=tls&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM29
 trojan://.%2BQAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.196.59:2890?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#United%20State%20Hivelocity
 trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&host=t.me%2Fv2Line&headerType=none&fp=chrome&type=tcp&sni=temporaltortellini.click#Argentina%20Koupu%20cloud
