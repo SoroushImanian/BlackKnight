@@ -305,6 +305,13 @@ vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%
 vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&fp=chrome&type=ws&sni=8j3f7HD37h.PaGES.dEV#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws&security=tls&encryption=none&type=ws&sni=azizoarjmand.info#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443?path=%2Fyhowcws&security=tls&encryption=none&fp=chrome&type=ws&sni=azizoarjmand.info#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
+vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&fp=firefox&type=xhttp&sni=statue.lnmarketplace.net#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://SERVERNETT-SERVERNETT1@rf4.sernett.ir:80?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.67:443?path=%2Fhormoz&security=tls&encryption=none&type=ws&sni=web.max.ru#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.56:443?path=%2Fhormoz&security=tls&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@85.209.195.105:443?path=%2Fhormoz&security=tls&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@92.118.231.181:443?path=%2Fhormoz&security=tls&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://SERVERNETT-SERVERNETT1@polm.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#SERVERNETT-CHANNEL
 vless://SERVERNETT-SERVERNETT1@polm.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#SERVERNETT-TELEGRAM
 vless://SERVERNETT-SERVERNETT1@polm.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#SERVERNETT-TELEGRAM
@@ -1079,6 +1086,13 @@ vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%
 vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&fp=chrome&type=ws&sni=8j3f7HD37h.PaGES.dEV#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws&security=tls&encryption=none&type=ws&sni=azizoarjmand.info#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443?path=%2Fyhowcws&security=tls&encryption=none&fp=chrome&type=ws&sni=azizoarjmand.info#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
+vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&fp=firefox&type=xhttp&sni=statue.lnmarketplace.net#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://SERVERNETT-SERVERNETT1@rf4.sernett.ir:80?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.67:443?path=%2Fhormoz&security=tls&encryption=none&type=ws&sni=web.max.ru#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.56:443?path=%2Fhormoz&security=tls&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@85.209.195.105:443?path=%2Fhormoz&security=tls&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@92.118.231.181:443?path=%2Fhormoz&security=tls&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://03c93f49-d573-4889-a4bb-187047c5a314@172.67.158.146:443?security=tls&sni=m7rtTYu.777169.xyz&alpn=http/1.1&fp=chrome&type=ws&path=/bstMMelSTch7YcAPgiEbt&host=7rttyu.777169.xyz&encryption=none#@awlix_ir
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?security=&sni=pqh32v6.film32western.shop&type=grpc&encryption=none#@awlix_ir
 vless://93cf17d3-2ffd-486b-9ea8-31ead0086137@94.130.187.47:2087?security=tls&sni=s.sarzamiiinahang.ir&alpn=h2&fp=chrome&type=grpc&encryption=none#@awlix_ir
