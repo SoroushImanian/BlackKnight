@@ -1,5 +1,6 @@
 vless://0d622f9e-2fbb-4db0-91a7-f367105fde8b@M-FR.MegV2.com:17161?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#@beiten
 vless://7fcbc02d-6f61-4cdf-a322-b14779cc8b47@Chatgpt.com:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=pa.ar-marz.fun&path=/man?ed%3D2560&sni=pa.ar-marz.fun&fp=chrome#@beiten
+vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@25.129.199.122:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=digikalaa.dpdns.org&path=/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&sni=DiGIkALaA.dpdns.ORG&fp=chrome&alpn=http/1.1#@beiten
 vless://e48b0bd4-8ddb-4901-9244-9bfca2d65d75@104.18.32.47:2053?encryption=none&security=tls&sni=Khamenei.FastCon.Store&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=Khamenei.FastCon.Store&path=%2FMsV2ray#@MsV2ray
 vless://b613af81-bc80-4f8e-8749-7fd514e55492@104.18.32.47:8443?encryption=none&security=tls&sni=gpt.fastlink.blog&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=gpt.fastlink.blog&path=%2FMsV#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%C2%B9%20%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
 vless://b613af81-bc80-4f8e-8749-7fd514e55492@chatgpt.com:8443?encryption=none&security=tls&sni=gpt.fastlink.blog&type=ws&host=gpt.fastlink.blog&path=%2FMsV#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%C2%B2%20%F0%9D%90%82%F0%9D%90%83%F0%9D%90%8D
@@ -816,19 +817,6 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.26.27.158:2096?path=%2F%3Fed%3D2
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.197.138:2096?path=%2F%3Fed%3D2560%26Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--Vpn_Sky--&security=tls&encryption=none&insecure=0&host=sni.111000.de5.net&type=ws&allowInsecure=0&sni=sni.111000.de5.net#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.199.148:2096?path=%2F%3Fed%3D2560%26TELEGRAM-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-&security=tls&encryption=none&insecure=0&host=sni.111000.v6.rocks&type=ws&allowInsecure=0&sni=sni.111000.v6.rocks#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.197.138:2096?path=%2F%3Fed%3D2560%26TELEGRAM-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-VPN_SKY-&security=tls&encryption=none&insecure=0&host=sni.111000.de5.net&type=ws&allowInsecure=0&sni=sni.111000.de5.net#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-vless://Warpi-Free-Vpn-In-GooglePlay@78.47.80.152:443?security=&type=tcp&encryption=none#@awlix_ir
-vless://Warpi-Free-Vpn-In-GooglePlay@91.98.153.140:443?security=&type=tcp&encryption=none#@awlix_ir
-vless://1c9054be-74c1-472e-948a-f915de932c8e@91.99.191.47:80?security=&type=tcp&encryption=none#@awlix_ir
-vless://1a79938c-e170-4d9b-99ac-2bfd19582461@144.124.255.72:443?security=&type=tcp&encryption=none#@awlix_ir
-vless://Warpi-Free-Vpn-In-GooglePlay@144.124.243.180:443?security=&type=ws&path=/&encryption=none#@awlix_ir
-vless://b4f3041b-e939-4c1a-8f1d-70e8369b25eb@142.93.76.209:4655?security=&type=tcp&encryption=none#@awlix_ir
-vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=&type=tcp&encryption=none#@awlix_ir
-vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=&type=tcp&encryption=none#@awlix_ir
-vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=&type=tcp&encryption=none#@awlix_ir
-vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=&type=tcp&encryption=none#@awlix_ir
-vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=&type=tcp&encryption=none#@awlix_ir
-vless://Parsashonam-Bot-37@104.17.147.22:8080?security=&type=ws&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed%3D2056&host=Fi.Parsashonam.CfD.&encryption=none#@awlix_ir
-vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=&type=tcp&encryption=none#@awlix_ir
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?security=tls&sni=gaosir.unfeeling.sbs&type=ws&path=/Telegram%20@sinavm/?ed%3D2560&host=gaosir.unfeeling.sbs&encryption=none#@awlix_ir
 vless://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?security=reality&sni=google.com&fp=chrome&pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&sid=c4da507c203b545a&type=tcp&flow=xtls-rprx-vision&encryption=none#@awlix_ir
 vless://bb6e0719-3d1a-4896-bddc-ddc86d682609@104.16.122.4:8080?security=&type=ws&path=/&host=support.sslzoom.us&encryption=none#@awlix_ir
