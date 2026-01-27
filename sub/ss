@@ -748,6 +748,12 @@ ss://8aeaaf22-b700-495c-8ca3-391764e0e9ad@ipc2.gptban.com:443?mode=auto&path=dl%
 ss://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@cdn.sjdpictures.ir:8443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=delta090.qzz.io#ConfigV2RayNG
 ss://32c257a1-f18c-42c7-860d-9cb0ead8b07c@cdn.sjdpictures.ir:443?path=%2F146.56.99.255%3D56789&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#ConfigV2RayNG
 ss://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=delta090.qzz.io#ConfigV2RayNG
+ss://603e9b99-a471-4c3b-b0b1-495071d4e027@sps.blackhoster.com:2095?mode=auto&security=none&encryption=none&host=ar.thisisservercrash.com&type=xhttp#ConfigV2RayNG
+ss://1d6a4595-2568-4262-a3fc-99270ef3f51f@151.101.66.219:80?mode=auto&path=%2F&security=none&encryption=none&host=cdndigikala.com&type=xhttp#ConfigV2RayNG
+ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@
+ss://3a4ddfac-e7da-48c9-9648-4a366109fc3a@api.steamsale.ir:443?path=%2FX0PX5Vup1qlVVzhxp6ic50a&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=mtn.vpsmee.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.vpsmee.ir#ConfigV2RayNG
+ss://40d28513-d1c3-4346-a480-27601b0650f4@185.228.236.237:80?path=%2Fclassgap&security=none&encryption=none&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&type=ws#ConfigV2RayNG
+ss://578a70d9-760a-4dc7-b926-882dc3a413ff@st8.pmme5.top:28443?security=none&encryption=none&host=cafebazaar.ir&headerType=http&type=tcp#ConfigV2RayNG
 ss://b4481397-d602-45d4-8d99-1fc4939d65d4@8.6.112.0:443?path=%2F142.132.140.130%3D447&security=tls&encryption=none&host=cranberry.qzz.io&allowinsecure=0&type=ws&sni=cranberry.qzz.io#%40Vpn_proxy_custom
 ss://b4481397-d602-45d4-8d99-1fc4939d65d4@hell-tawana.lookanet.codes:443?path=%2F142.132.140.130%3D447&security=tls&encryption=none&insecure=0&host=cranberry.qzz.io&type=ws&allowInsecure=0&sni=cranberry.qzz.io#%40Vpn_proxy_custom
 ss://d0298536-d670-4045-bbb1-ddd5ea68683e@8.6.112.0:443?path=%2Ftelegram-%40v2ray_alpha&security=tls&encryption=none&host=a.azadnet003.ddns-ip.net&fp=chrome&allowinsecure=0&type=ws&sni=a.azadnet003.ddns-ip.net#%40vpn_proxy_custom
