@@ -12,6 +12,10 @@ vless://79e88c56-dab1-4234-a58c-5d8a3b371b8e@mos-xt.aminv.ir:25443?security=real
 vless://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@france.novaads.shop:42541?security=&encryption=none&host=excoino.com&headerType=http&type=tcp#telegram%20%E2%9A%A1%EF%B8%8F%20dailyv2ry
 vless://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@italy.aparat-movies-download.ir:42538?security=&encryption=none&host=excoino.com&headerType=http&type=tcp#telegram%20%F0%9F%8E%AF%20dailyv2ry
 vless://a4a40e2c-0c8f-4ce4-8e0f-20255464cb6c@ua.whatsmyspeed.ir:42537?security=&encryption=none&host=excoino.com&headerType=http&type=tcp#telegram%20%F0%9F%8E%AA%20dailyv2ry
+vless://ce9a5755-0300-49e2-9c2b-79305337cbeb@109.95.65.190:7060?encryption=none&security=none&type=tcp&headerType=http&host=soft98.ir#telegram%20%E2%98%82%EF%B8%8F%20dailyv2ry
+vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@104.17.164.123:8443?encryption=none&security=tls&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&path=%2F%3Fed%3D2560#telegram%20%F0%9F%8D%8A%20dailyv2ry
+vless://e4987084-86c4-428f-82f5-a0516b30a978@g1.sinapp1.com:2099?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#telegram%20%F0%9F%8C%9F%20dailyv2ry
+vless://73203536-b99b-44bd-83bf-6b25d5254340@tunnel.alireza031.net:54436?encryption=none&security=none&type=tcp&headerType=none#telegram%20%F0%9F%9A%80%20dailyv2ry
 vless://58c9cbd0-7f3c-4b75-ad46-6b5f1c5d9d18@in.direct.aabbccdde.org:81?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%40FreakConfig
 vless://1f01c3ff-67d1-4407-8898-22876d81a02c@ip3.nationalldt.com:8443?path=%2Fpath&security=tls&encryption=none&insecure=1&host=aq.vvir.ir.&type=ws&allowInsecure=1&sni=aq.vvir.ir.#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@france.novaads.shop:42541?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
@@ -482,6 +486,10 @@ vless://16bb01c3-442b-4b09-8935-088bf50283f8@104.17.164.123:8443?path=%2F%3Fed%3
 vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@66.81.247.155:443?security=tls&encryption=none&insecure=0&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#ConfigV2RayNG
 vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.17.162.123:8443?security=tls&allowInsecure=0&encryption=none&type=ws&host=r4fnviw9jl4i4rx.zjde5.de5.net&path=/?ed%3D%23?ed%3D512&sni=r4fnviw9jl4i4rx.zjde5.de5.net&fp=random&alpn=http/1.1#
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@104.17.162.123:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=1&sni=6nwf5rauksz8126xm.zjde5.de5.net#
+vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.17.162.123:8443?path=%2F%3Fed%3D%23TELEGRAM-ALIXTSO%3Fed%3D512&security=tls&encryption=none&insecure=0&host=r4fnviw9jl4i4rx.zjde5.de5.net&type=ws&allowInsecure=0&sni=r4fnviw9jl4i4rx.zjde5.de5.net#
+vless://73964310-f9a7-48cf-9d37-8c58149341b6@94.140.0.0:80?path=%2F%3Fed%3D2052&security=none&encryption=none&host=panelmarzban.persianfly.org&type=ws#
+vless://73964310-f9a7-48cf-9d37-8c58149341b6@94.140.0.2:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=panelmarzban.persianfly.org&type=httpupgrade#
+vless://73964310-f9a7-48cf-9d37-8c58149341b6@188.114.96.144:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=panelmarzban.persianfly.org&type=httpupgrade#
 vless://b4481397-d602-45d4-8d99-1fc4939d65d4@8.6.112.0:443?path=%2F142.132.140.130%3D447&security=tls&encryption=none&host=cranberry.qzz.io&allowinsecure=0&type=ws&sni=cranberry.qzz.io#%40Vpn_proxy_custom
 vless://b4481397-d602-45d4-8d99-1fc4939d65d4@hell-tawana.lookanet.codes:443?path=%2F142.132.140.130%3D447&security=tls&encryption=none&insecure=0&host=cranberry.qzz.io&type=ws&allowInsecure=0&sni=cranberry.qzz.io#%40Vpn_proxy_custom
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@8.6.112.0:443?path=%2Ftelegram-%40v2ray_alpha&security=tls&encryption=none&host=a.azadnet003.ddns-ip.net&fp=chrome&allowinsecure=0&type=ws&sni=a.azadnet003.ddns-ip.net#%40vpn_proxy_custom
