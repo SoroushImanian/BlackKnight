@@ -8,7 +8,6 @@ trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
 trojan://bpb-trojan@www.csgo.com:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=1&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=1&sni=singbox.lu567890.us.kg#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%40EuServer
-trojan://telegram-id-privatevpns@3.76.228.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@52.47.70.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@15.236.119.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@18.193.240.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
@@ -26,6 +25,7 @@ trojan://telegram-id-privatevpns@51.45.46.184:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@52.58.45.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@3.72.212.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@15.188.226.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@13.37.23.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&host=singbox.lu567890.us.kg&fp=chrome&type=ws&sni=singbox.lu567890.us.kg#t.me%2FVMESSIRAN
 trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&host=singbox.lu567890.us.kg&fp=chrome&type=ws&sni=singbox.lu567890.us.kg#t.me%2FVMESSIRAN
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#t.me%2FVMESSIRAN
@@ -79,6 +79,7 @@ trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&alpn=h2&i
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%87%A9%F0%9F%87%AAConfigV2RayNG
 trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#%E2%9A%A1Telegram%20%3D%20%40ConfigV2RayNG
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%40ConfigV2RayNG%F0%9F%8C%BB
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%87%A9%F0%9F%87%AAConfigV2RayNG
 trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%40FreakConfig
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%40FreakConfig
