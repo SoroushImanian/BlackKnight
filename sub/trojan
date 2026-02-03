@@ -97,6 +97,7 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&h
 trojan://telegram-id-privatevpns@63.177.190.223:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AAConfigV2RayNG
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ozon.ru#%F0%9F%A5%9055%40ConfigV2RayNG
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=web.max.ru#%F0%9F%A5%9057%40ConfigV2RayNG
+trojan://telegram-id-privatevpns@13.38.161.110:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5ConfigV2RayNG
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&path=/assignment#Allnet telegram:@ultrasurf_12
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
 trojan://bpb-trojan@www.csgo.com:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=1&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=1&sni=singbox.lu567890.us.kg#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
