@@ -660,14 +660,6 @@ ss://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?pat
 ss://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=fkhamnei.kosnanatfilterchi.eu.org&type=ws#%40v2rayan
 ss://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#%40v2rayan
 ss://eyJhZGQiOiI2Mi42MC4xNzUuMTEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0ZWxld2ViaW9uLmNvbSIsImlkIjoiNWVmM2ZhOGUtNzE3ZC00NDI2LWFhMDYtYTE5MGM4NGEwZmQ3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODQ0MCIsInBzIjoiQHYycmF5YW4g8J+YmPCfmIoiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-ss://914b0493-7094-4840-b94d-8ec3e92e9c43@146.185.208.206:443?security=reality&encryption=none&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=5f22#NetAccount
-ss://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=frns-2.certhost.ir&type=ws&allowInsecure=0&sni=frns-2.certhost.ir#NetAccount
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8390#NetAccount
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8389#NetAccount
-ss://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@base.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-frns.certhost.ir&type=ws#NetAccount
-ss://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=frns-2.certhost.ir&type=ws&allowInsecure=0&sni=frns-2.certhost.ir#NetAccount
-ss://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=itns-2.blackpapers.ir&type=ws&allowInsecure=0&sni=itns-2.blackpapers.ir#NetAccount
-ss://9e4c954c-133f-4530-99f2-e2c102b3e414@dynamic.gogolilililili.shop:8888?security=none&encryption=none&host=Google.com&headerType=http&type=tcp#NetAccount
 ss://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#NetAccount
 ss://39315072-17ec-4a53-bbdf-54e7d485e2ca@test.flutterdevs.click:2090?security=none&encryption=none&headerType=none&type=tcp#NetAccount
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@199.119.137.95:2053?path=%2F%3Fed&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#NetAccount
