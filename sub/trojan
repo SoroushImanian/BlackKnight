@@ -34,6 +34,7 @@ trojan://telegram-id-privatevpns@13.36.58.242:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.37.147.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@3.121.84.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@15.236.182.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
+trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%2013%20%40Outline_Vpn
 trojan://humanity@www.creationlong.org:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#%F0%9F%87%AE%F0%9F%87%B7%20IR%2044%20%40Outline_Vpn
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%2049%20%40Outline_Vpn
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%F0%9F%9B%A1%20V%2014%20%40Outline_Vpn
