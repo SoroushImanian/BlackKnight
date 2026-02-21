@@ -518,7 +518,6 @@ vless://3aa78f08-e345-4d83-bda0-f34eebc5fcc8@95.164.117.40:22161?security=none&t
 vless://85f1516e-688b-40db-997a-05c7c25e0e93@172.67.155.241:8080?security=none&type=ws&host=shahed2.novintecc.org&path=%2F#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://2487c34c-016e-43f3-9460-cb13b1f4c418@151.101.128.155:80?security=none&type=ws&host=UNLIMITEDDEV.channel-telegram-1.ir&path=
 vless://5c75e010-a7f5-11ef-91f8-1239d0255272@104.18.29.244:80?security=none&type=ws&host=us1.socifiles.com&path=%2Fvlws#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
-vless://ce1ffe62-9562-4eb9-bcae-774b03f2776d@ox3.liiliil.ir:20128?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%40vmess_iran
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.161.50.246:443?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#@vmess_iran
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#@vmess_iran
 vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#@vmess_iran
@@ -600,6 +599,17 @@ vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F%3FT
 vless://9a887970-9742-48fd-ee77-57735bdc1d49@3.76.29.156:443?security=none&encryption=none&headerType=none&type=tcp#%40vmess_iran%20%F0%9F%91%88%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=%2F&security=tls&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#%40vmess_iran%20%F0%9F%91%88%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
 vless://db27952d-9de6-4a90-d508-0d2ab314d2f4@18.184.155.64:18694?security=none&encryption=none&headerType=none&type=tcp#%40vmess_iran%20%F0%9F%91%88%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
+vless://67fd9d67-7693-4a28-e7a1-fb02c8008cef@3.79.240.151:50170?security=&encryption=none&headerType=none&type=tcp#%40vmess_iran
+vless://db27952d-9de6-4a90-d508-0d2ab314d2f4@18.199.156.124:18694?security=&encryption=none&headerType=none&type=tcp#%40vmess_iran
+vless://21889ffd-54ee-40f9-e9b0-f1838908579a@3.79.235.30:443?security=&encryption=none&headerType=none&type=tcp#%40vmess_iran
+vless://620e45f4-92f1-4be6-e118-3bc515509320@3.71.203.47:28279?security=&encryption=none&headerType=none&type=tcp#%40vmess_iran
+vless://69c3ec92-9c48-44bc-cfbc-a37ee0c4461a@3.120.146.221:443?security=&encryption=none&headerType=none&type=tcp#%40vmess_iran
+vless://21889ffd-54ee-40f9-e9b0-f1838908579a@3.79.235.30:443?security=&encryption=none&headerType=none&type=tcp#%40vmess_iran
+vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@3.75.222.155:443?security=&encryption=none&headerType=none&type=tcp#%40vmess_iran
+vless://9b4bf821-7aa5-48f1-8de4-c072c0574f90@18.194.145.240:33356?security=&encryption=none&headerType=none&type=tcp#%40vmess_iran
+vless://7e015ae5-8173-4fbd-a9a1-a7d5ffa3826f@18.158.72.79:443?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1%EF%B8%8E%20%F0%93%8F%BA%20%20%D9%85%D9%86%D8%A8%D8%B9%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%40vmess_iran
+vless://620e45f4-92f1-4be6-e118-3bc515509320@3.71.203.47:28279?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1%EF%B8%8E%20%F0%93%8F%BA%20%20%D9%85%D9%86%D8%A8%D8%B9%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%40vmess_iran
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&security=tls&encryption=none&host=cd11.thisiswe.uno&fp=chrome&type=ws&sni=cd11.thisiswe.uno#%E2%9A%A1%EF%B8%8E%20%F0%93%8F%BA%20%20%D9%85%D9%86%D8%A8%D8%B9%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%40vmess_iran
 vless://ea6b03ef-8356-4a8c-abe4-eade7a4806e4@163.172.29.106:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%5BTelegram%3AConfigV2RayNG%5D
 vless://ada6ebdd-bdfa-44fb-989c-672051790aeb@v2tr.topacp.store:2053?security=&encryption=none&headerType=http&type=tcp#%E2%99%9B%20ConfigV2RayNG
 vless://5ce4bcc9-b932-417f-9c84-0a251d29349b@37.202.244.227:47071?path=%2F%3D%40mhsenivxx&security=&encryption=none&host=shatel5.imstron.org&type=ws#%40ConfigV2RayNG
