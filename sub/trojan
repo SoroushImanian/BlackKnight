@@ -19,7 +19,6 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&h
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20%7C%E2%9A%A1%40EuServer
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20%7C%E2%9A%A1%40EuServer
 trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#%F0%9F%87%B3%F0%9F%87%B1%20%7C%E2%9A%A1%40EuServer
-trojan://telegram-id-privatevpns@35.181.219.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@3.124.221.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@63.183.53.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@15.237.153.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
@@ -37,6 +36,7 @@ trojan://telegram-id-privatevpns@13.37.184.19:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@52.58.227.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@13.38.166.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@35.181.213.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
+trojan://telegram-id-privatevpns@52.29.75.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%2049%20%40Outline_Vpn
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%F0%9F%9B%A1%20V%2014%20%40Outline_Vpn
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%9B%A1%20V%2045%20%40Outline_Vpn
